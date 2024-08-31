@@ -13,4 +13,4 @@ About me
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,react,flutter,dart,c,nodejs,php,vscode,blender,ps,figma&theme=light)](https://skillicons.dev)
 
 # Contact me
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Facebook</title><pathd="https://www.facebook.com/NEUNGKITTICHA/"/></svg>
+
