@@ -10,4 +10,4 @@ About me
 
 
 # Skill
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,react,flutter,dart,c,nodejs,php,vscode,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,react,flutter,dart,c,nodejs,php,vscode,ps,figma&theme=light)](https://skillicons.dev)
