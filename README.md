@@ -7,3 +7,7 @@
 About me
 -------------------------------------------------------------
   I am a 4th year computer engineering student. I am interested in web application or mobile application design and web application development. I am currently studying and working on a project about autonomous robots.
+
+
+# Skill
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,react,flutter,dart,c,nodejs,php,vscode,figma&theme=light)](https://skillicons.dev)
