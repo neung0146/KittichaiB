@@ -10,7 +10,7 @@ About me
 
 
 ### Skill
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,react,flutter,dart,c,nodejs,php,vscode,blender,ps,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,arduino,react,flutter,dart,firebase,c,nodejs,php,vscode,blender,ps,figma&theme=light)](https://skillicons.dev)
 
 ### Contact me
 
